@@ -1,1 +1,7 @@
-# 2015-Application-of-US-Chemistry-Grad-Schools
+# 2015 Application of US Chemistry Grad Schools
+
+# 2015年美国化学方向研究生院申请资料汇总
+
+以下资料是帮助女朋友整理的2015年申请美国化学方向博士生的情况，基本涵盖美国化学排名前50的各大院校。资料包括Excel中汇总的申请截止日期、官网网址、成绩要求和其他信息，以及一些重要的文件作为附件。
+
+欢迎大家勘误、补充。谢谢！
