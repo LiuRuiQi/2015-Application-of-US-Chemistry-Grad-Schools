@@ -10,4 +10,6 @@ Excel中多个sheet包含了化学(Chemistry)、化工(Chemical Engineering)、生化(Biochemi
 
 由于女朋友的学业规划，整理的资料暂时只包含博士学位(phD)。
 
+注：有一些大学网页必须翻墙才能加载。
+
 欢迎大家勘误、补充。谢谢！
