@@ -27,3 +27,5 @@ Excel中多个sheet包含了化学(Chemistry)、化工(Chemical Engineering)、生化(Biochemi
 4. 硕士项目会特别写明，否则都是phD。
 
 5. 到后来我更加注重直接发邮件交流，部分原因是有的院系网页上根本就没有什么招生信息。
+
+6. Environmental Science这个专业在不同的大学或多或少都涉及policy making等更加社会化的内容，项目比较综合，科学、技术和文化、管理都涉及。
